@@ -103,7 +103,7 @@ const categoryFlow = addKeyword('categoría')
     }, [menuFlow, finalFlow]);
 
 const mainFlow = addKeyword(EVENTS.WELCOME)
-    .addAnswer('Hola 👋, este es el Bot de Noticias de Lumo 📰 🤖', {
+    .addAnswer('Hola 👋, este es el Bot de Noticias de Caracol 📰 🤖', {
         delay: 0
     }, async (context, { state, flowDynamic, gotoFlow }) => {
         try {
