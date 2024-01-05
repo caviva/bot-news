@@ -2,10 +2,10 @@
   key: {
     remoteJid: '61424309967@s.whatsapp.net',
     fromMe: false,
-    id: '3AA6EC9B2AFE09285D5F',
+    id: '3A7EFB44D89D1ED21F93',
     participant: undefined
   },
-  messageTimestamp: 1704421673,
+  messageTimestamp: 1704425611,
   pushName: 'Camilo Villota Ibarra',
   broadcast: false,
   message: Message {
@@ -19,8 +19,8 @@
   from: '61424309967'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_d602c309-6e52-469c-8f64-8c7259a9e73f',
-  keyword: 'key_d36ce1d6-e2be-493f-a691-56d34b177e89',
+  ref: 'ans_6dbcd4ca-48dc-41f7-b55e-5369d9fb70eb',
+  keyword: 'key_4d0d9aa2-af19-495d-8be4-7f11e452ffca',
   answer: 'Hola 👋, este es el Bot de Noticias de Lumo 📰 🤖',
   options: {
     media: null,
@@ -39,16 +39,16 @@
     keyword: {},
     callback: true
   },
-  refSerialize: 'e6c0e82793c10a0ce50f8d2371b90fc4'
+  refSerialize: '049a19e7bd55d8cbb9b47028afb7f6d1'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '61424309967@s.whatsapp.net',
     fromMe: false,
-    id: '3A52A8F468DEACE804B5',
+    id: '3A8EACB8495E6F25AA66',
     participant: undefined
   },
-  messageTimestamp: 1704421677,
+  messageTimestamp: 1704425617,
   pushName: 'Camilo Villota Ibarra',
   broadcast: false,
   message: Message {
@@ -65,70 +65,10 @@
   key: {
     remoteJid: '61424309967@s.whatsapp.net',
     fromMe: false,
-    id: '3ACE5E6D3B6EF5ADF840',
+    id: '3A0EDEA8263E29C21EC3',
     participant: undefined
   },
-  messageTimestamp: 1704421694,
-  pushName: 'Camilo Villota Ibarra',
-  broadcast: false,
-  message: Message {
-    conversation: '3',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '3',
-  from: '61424309967'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '61424309967@s.whatsapp.net',
-    fromMe: false,
-    id: '3AB2A2CAEA182EC0C56B',
-    participant: undefined
-  },
-  messageTimestamp: 1704421704,
-  pushName: 'Camilo Villota Ibarra',
-  broadcast: false,
-  message: Message {
-    conversation: 'O',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'O',
-  from: '61424309967'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '61424309967@s.whatsapp.net',
-    fromMe: false,
-    id: '3A245A16ECA53EA7EB3F',
-    participant: undefined
-  },
-  messageTimestamp: 1704421713,
-  pushName: 'Camilo Villota Ibarra',
-  broadcast: false,
-  message: Message {
-    conversation: '4',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '4',
-  from: '61424309967'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '61424309967@s.whatsapp.net',
-    fromMe: false,
-    id: '3A1457BF79200C39B05D',
-    participant: undefined
-  },
-  messageTimestamp: 1704421723,
+  messageTimestamp: 1704425625,
   pushName: 'Camilo Villota Ibarra',
   broadcast: false,
   message: Message {
@@ -145,10 +85,10 @@
   key: {
     remoteJid: '61424309967@s.whatsapp.net',
     fromMe: false,
-    id: '3A66FC1BA9FD0D1B138B',
+    id: '3A652A4A1315E907E057',
     participant: undefined
   },
-  messageTimestamp: 1704421728,
+  messageTimestamp: 1704425651,
   pushName: 'Camilo Villota Ibarra',
   broadcast: false,
   message: Message {
