@@ -4,7 +4,6 @@ const { EVENTS } = require('@bot-whatsapp/bot');
 const QRPortalWeb = require('@bot-whatsapp/portal')
 const BaileysProvider = require('@bot-whatsapp/provider/baileys')
 const MockAdapter = require('@bot-whatsapp/database/mock');
-const { response } = require('express');
 const NewsAPI = require('newsapi');
 const newsapi = new NewsAPI('1403def6a6064d06959ae61f6d682644');
 
